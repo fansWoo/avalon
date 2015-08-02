@@ -1,0 +1,6 @@
+h2 { margin-bottom: 20px; }
+h3 { font-size: 20px; margin-bottom: 10px; }
+h4 { font-size: 15px; font-weight: 900; margin-bottom: 10px; }
+.task_box { background: #CCC; margin-bottom: 30px; }
+.task_box h3{ display: block; padding: 10px; background: #999; color: #FFF; }
+.task_box .vote_box { padding: 0 10px 10px 10px; margin-bottom: 10px; border-bottom: 1px dashed; }
